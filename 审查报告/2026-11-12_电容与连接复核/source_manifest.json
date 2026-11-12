@@ -1,0 +1,28 @@
+{
+  "reviewDate": "2026-11-12",
+  "project": "D:/myself/FOC/project/FOC/FOC.PrjPcb",
+  "sources": [
+    {
+      "file": "D:/myself/FOC/project/FOC/Power.SchDoc",
+      "bytes": 110592,
+      "mtimeUTC": "2026-11-12T01:47:10.418Z",
+      "sha256": "d75210cbc3f6d922d5ea6abf2d65b81ec2b2ed4f2005b549dcbed871df9c63eb"
+    },
+    {
+      "file": "D:/myself/FOC/project/FOC/port.SchDoc",
+      "bytes": 143872,
+      "mtimeUTC": "2026-11-12T01:58:27.120Z",
+      "sha256": "9b512ea2f3e891ea710ad9ac8721d767c6ac468c153d08720d31fd23811f0623"
+    },
+    {
+      "file": "D:/myself/FOC/project/FOC/MOSDriver.SchDoc",
+      "bytes": 39936,
+      "mtimeUTC": "2026-11-12T01:47:17.158Z",
+      "sha256": "46862389c8871325795220bbf22086fe9b0a446ae1d1fd6b5db6055be4be9d8e"
+    }
+  ],
+  "liveComponentCount": 27,
+  "liveWireCount": 189,
+  "savedActivePinCount": 203,
+  "notes": "No design files edited; no native compile/ERC/PCB DRC or bench tests. Audit observes current project only."
+}

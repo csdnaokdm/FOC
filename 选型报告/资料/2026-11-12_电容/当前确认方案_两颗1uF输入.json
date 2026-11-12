@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-12",
+  "criteria": [
+    "MLCC在实际工作电压下减容约50%～60%或更多时，改用减容较少的候选",
+    "找不到确切型号的有效容量曲线时，按用户偏好换成工作点数据明确的候选；未知不等于已证明不够用",
+    "MOS母线允许1210封装",
+    "LMR51430XDDCR输入只采用两颗C28323(1µF/50V/0805/X7R)并联，不单独采购2.2µF，不另加4.7µF/10µF输入采购项",
+    "报告中的供应商料号须与容量、耐压、封装一起显示"
+  ],
+  "c6": {
+    "component": "原C6位置",
+    "parts": "C28323（1 µF／50 V／0805，X7R）",
+    "qty": 2,
+    "nominalTotalUF": 2,
+    "effectiveTotalUFAt12V": 1.706,
+    "note": "所述有效容量为原厂典型曲线参考；未进行电路输入纹波和实际负载验证"
+  },
+  "mother": {
+    "part": "C138687（10 µF／50 V／1210，X7R）",
+    "nominalUF": 10,
+    "volts": 50,
+    "effectiveUFAt12V": 7.41
+  },
+  "output5": {
+    "refs": [
+      "C8",
+      "C13"
+    ],
+    "part": "C52306（22 µF／25 V／1210，X5R）",
+    "qty": 2,
+    "effectiveEachUFAt5V": 17.49
+  },
+  "output33": {
+    "ref": "C11",
+    "part": "C11366（22 µF／10 V／A型3216，有极性钽电容）",
+    "note": "已按用户确认的UMW AMS1117-3.3（C347222）原厂手册核对：推荐22 µF钽电容；所选22 µF/10 V/A型钽电容的类型与标称容量匹配，具体ESR及上电、负载阶跃稳定性尚未做板上验证"
+  },
+  "nfReference": {
+    "label": "C1591（100 nF／50 V／0603，X7R）",
+    "source": "https://product.samsungsem.com/mlcc/CL10B104KB8NNN.do",
+    "condition": {
+      "degC": 25,
+      "hz": 1000,
+      "acVrms": 1
+    },
+    "readouts": [
+      {
+        "voltage": 3.3,
+        "deltaPercent": 1.07,
+        "effectiveNF": 101.07
+      },
+      {
+        "voltage": 5,
+        "deltaPercent": 0.24,
+        "effectiveNF": 100.24
+      },
+      {
+        "voltage": 12,
+        "deltaPercent": -6.97,
+        "effectiveNF": 93.03
+      }
+    ],
+    "mandatoryPurchase": false,
+    "price": {
+      "unitCNY": 0.0428,
+      "moq": 100,
+      "minimumGoodsCNY": 4.28,
+      "tax": true,
+      "source": "https://item.szlcsc.com/1943.html"
+    }
+  },
+  "regulator33": {
+    "position": "5 V→3.3 V 线性稳压",
+    "code": "C347222",
+    "manufacturer": "UMW（友台）",
+    "mpn": "AMS1117-3.3",
+    "package": "SOT-223",
+    "userConfirmed": true,
+    "url": "https://item.szlcsc.com/323882.html",
+    "price": {
+      "date": "2026-11-12",
+      "currency": "CNY",
+      "tax": true,
+      "moq": 10,
+      "unit": 0.2971,
+      "stock": 894290,
+      "tiers": [
+        [
+          10,
+          0.2971
+        ],
+        [
+          100,
+          0.235
+        ],
+        [
+          300,
+          0.203
+        ],
+        [
+          2500,
+          0.1604
+        ],
+        [
+          5000,
+          0.1512
+        ],
+        [
+          10000,
+          0.145
+        ]
+      ]
+    },
+    "datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20241218/BAF0263FA2E44BCD8AF41AA4FA04EFAA.pdf",
+    "datasheetFindings": {
+      "output": "22 µF tantalum",
+      "typicalInput": "10 µF",
+      "numericESRStabilityWindow": "not specified in reviewed datasheet"
+    }
+  }
+}
