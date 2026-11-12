@@ -1,0 +1,4 @@
+# Altium 自动备份、日志和预览缓存保留在本地，不纳入版本管理。
+/project/**/History/
+/project/**/Project Logs for */
+/project/**/__Previews/
