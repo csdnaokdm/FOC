@@ -1,3 +1,6 @@
-Record=TopLevelDocument|FileName=MOSDriver.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=MOSDriver.SchDoc|FileName=port.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=MOSDriver.SchDoc|FileName=Power.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_COREBOARD|SchDesignator=U_COREBOARD|FileName=COREBOARD.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=COREBOARD.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_CurrentSamping|SchDesignator=U_CurrentSamping|FileName=CurrentSamping.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=CurrentSamping.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_MOSDriver|SchDesignator=U_MOSDriver|FileName=MOSDriver.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=MOSDriver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_port|SchDesignator=U_port|FileName=port.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=port.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
