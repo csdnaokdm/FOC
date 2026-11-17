@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200"><rect width="1600" height="1200" fill="white"/><g font-family="Microsoft YaHei,Segoe UI,Arial,sans-serif">
+<text x="50" y="55" font-size="32" text-anchor="start" fill="#1c2b3e">FOC 三相双向过流保护 · 电路接线示意</text>
+<text x="50" y="93" font-size="20" text-anchor="start" fill="#1c2b3e">20 mΩ × 增益20；名义约 ±1.51 A；FAULT_N = 低有效；2026-11-17</text>
+<rect x="40" y="115" width="1120" height="580" rx="9" fill="#edf4fc" stroke="#bed0e4" stroke-width="2"/>
+<rect x="1200" y="115" width="360" height="580" rx="9" fill="#f4f7fb" stroke="#bed0e4" stroke-width="2"/>
+<text x="65" y="175" font-size="23" text-anchor="start" fill="#1c2b3e">U相：U4.7</text>
+<text x="65" y="203" font-size="17" text-anchor="start" fill="#1c2b3e">在 R29 前分支</text>
+<path d="M65 215 L185 215" stroke="#245f83" stroke-width="3" fill="none"/>
+<rect x="185" y="206" width="70" height="18" fill="white" stroke="#245f83" stroke-width="3"/>
+<text x="190" y="254" font-size="17" text-anchor="start" fill="#1c2b3e">100 Ω</text>
+<path d="M255 215 L390 215" stroke="#245f83" stroke-width="3" fill="none"/>
+<circle cx="300" cy="215" r="5" fill="#245f83"/>
+<path d="M300 215 L300 255" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M285 255 L315 255" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M285 264 L315 264" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M300 264 L300 280" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M285 280 L315 280" stroke="#245f83" stroke-width="3" fill="none"/><path d="M290 287 L310 287" stroke="#245f83" stroke-width="3" fill="none"/><path d="M296 294 L304 294" stroke="#245f83" stroke-width="3" fill="none"/>
+<text x="320" y="267" font-size="16" text-anchor="start" fill="#1c2b3e">100 pF</text>
+<path d="M390 171 L390 259" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M390 171 L470 171" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M390 259 L470 259" stroke="#245f83" stroke-width="3" fill="none"/>
+<text x="355" y="203" font-size="17" text-anchor="start" fill="#1c2b3e">IU_OCP</text>
+<rect x="470" y="130" width="385" height="70" rx="9" fill="#fff7e6" stroke="#bed0e4" stroke-width="2"/>
+<text x="485" y="156" font-size="19" text-anchor="start" fill="#1c2b3e">U5 U上限</text>
+<text x="485" y="184" font-size="18" text-anchor="start" fill="#1c2b3e">+5: VH   −4: IU_OCP</text>
+<rect x="470" y="225" width="385" height="70" rx="9" fill="#fff7e6" stroke="#bed0e4" stroke-width="2"/>
+<text x="485" y="252" font-size="19" text-anchor="start" fill="#1c2b3e">U5 U下限</text>
+<text x="485" y="280" font-size="18" text-anchor="start" fill="#1c2b3e">+7: IU_OCP   −6: VL</text>
+<path d="M855 165 L1080 165" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M855 260 L1080 260" stroke="#245f83" stroke-width="3" fill="none"/>
+<text x="875" y="155" font-size="16" text-anchor="start" fill="#1c2b3e">OUT 2</text>
+<text x="875" y="249" font-size="16" text-anchor="start" fill="#1c2b3e">OUT 1</text>
+<circle cx="1080" cy="165" r="5" fill="#245f83"/>
+<circle cx="1080" cy="260" r="5" fill="#245f83"/>
+<text x="65" y="355" font-size="23" text-anchor="start" fill="#1c2b3e">V相：U4.8</text>
+<text x="65" y="383" font-size="17" text-anchor="start" fill="#1c2b3e">在 R33 前分支</text>
+<path d="M65 395 L185 395" stroke="#245f83" stroke-width="3" fill="none"/>
+<rect x="185" y="386" width="70" height="18" fill="white" stroke="#245f83" stroke-width="3"/>
+<text x="190" y="434" font-size="17" text-anchor="start" fill="#1c2b3e">100 Ω</text>
+<path d="M255 395 L390 395" stroke="#245f83" stroke-width="3" fill="none"/>
+<circle cx="300" cy="395" r="5" fill="#245f83"/>
+<path d="M300 395 L300 435" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M285 435 L315 435" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M285 444 L315 444" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M300 444 L300 460" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M285 460 L315 460" stroke="#245f83" stroke-width="3" fill="none"/><path d="M290 467 L310 467" stroke="#245f83" stroke-width="3" fill="none"/><path d="M296 474 L304 474" stroke="#245f83" stroke-width="3" fill="none"/>
+<text x="320" y="447" font-size="16" text-anchor="start" fill="#1c2b3e">100 pF</text>
+<path d="M390 351 L390 439" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M390 351 L470 351" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M390 439 L470 439" stroke="#245f83" stroke-width="3" fill="none"/>
+<text x="355" y="383" font-size="17" text-anchor="start" fill="#1c2b3e">IV_OCP</text>
+<rect x="470" y="310" width="385" height="70" rx="9" fill="#fff7e6" stroke="#bed0e4" stroke-width="2"/>
+<text x="485" y="336" font-size="19" text-anchor="start" fill="#1c2b3e">U5 V上限</text>
+<text x="485" y="364" font-size="18" text-anchor="start" fill="#1c2b3e">+9: VH   −8: IV_OCP</text>
+<rect x="470" y="405" width="385" height="70" rx="9" fill="#fff7e6" stroke="#bed0e4" stroke-width="2"/>
+<text x="485" y="432" font-size="19" text-anchor="start" fill="#1c2b3e">U5 V下限</text>
+<text x="485" y="460" font-size="18" text-anchor="start" fill="#1c2b3e">+11: IV_OCP   −10: VL</text>
+<path d="M855 345 L1080 345" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M855 440 L1080 440" stroke="#245f83" stroke-width="3" fill="none"/>
+<text x="875" y="335" font-size="16" text-anchor="start" fill="#1c2b3e">OUT 14</text>
+<text x="875" y="429" font-size="16" text-anchor="start" fill="#1c2b3e">OUT 13</text>
+<circle cx="1080" cy="345" r="5" fill="#245f83"/>
+<circle cx="1080" cy="440" r="5" fill="#245f83"/>
+<text x="65" y="535" font-size="23" text-anchor="start" fill="#1c2b3e">W相：U4.14</text>
+<text x="65" y="563" font-size="17" text-anchor="start" fill="#1c2b3e">在 R34 前分支</text>
+<path d="M65 575 L185 575" stroke="#245f83" stroke-width="3" fill="none"/>
+<rect x="185" y="566" width="70" height="18" fill="white" stroke="#245f83" stroke-width="3"/>
+<text x="190" y="614" font-size="17" text-anchor="start" fill="#1c2b3e">100 Ω</text>
+<path d="M255 575 L390 575" stroke="#245f83" stroke-width="3" fill="none"/>
+<circle cx="300" cy="575" r="5" fill="#245f83"/>
+<path d="M300 575 L300 615" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M285 615 L315 615" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M285 624 L315 624" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M300 624 L300 640" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M285 640 L315 640" stroke="#245f83" stroke-width="3" fill="none"/><path d="M290 647 L310 647" stroke="#245f83" stroke-width="3" fill="none"/><path d="M296 654 L304 654" stroke="#245f83" stroke-width="3" fill="none"/>
+<text x="320" y="627" font-size="16" text-anchor="start" fill="#1c2b3e">100 pF</text>
+<path d="M390 531 L390 619" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M390 531 L470 531" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M390 619 L470 619" stroke="#245f83" stroke-width="3" fill="none"/>
+<text x="355" y="563" font-size="17" text-anchor="start" fill="#1c2b3e">IW_OCP</text>
+<rect x="470" y="490" width="385" height="70" rx="9" fill="#fff7e6" stroke="#bed0e4" stroke-width="2"/>
+<text x="485" y="516" font-size="19" text-anchor="start" fill="#1c2b3e">U6 W上限</text>
+<text x="485" y="544" font-size="18" text-anchor="start" fill="#1c2b3e">+5: VH   −4: IW_OCP</text>
+<rect x="470" y="585" width="385" height="70" rx="9" fill="#fff7e6" stroke="#bed0e4" stroke-width="2"/>
+<text x="485" y="612" font-size="19" text-anchor="start" fill="#1c2b3e">U6 W下限</text>
+<text x="485" y="640" font-size="18" text-anchor="start" fill="#1c2b3e">+7: IW_OCP   −6: VL</text>
+<path d="M855 525 L1080 525" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M855 620 L1080 620" stroke="#245f83" stroke-width="3" fill="none"/>
+<text x="875" y="515" font-size="16" text-anchor="start" fill="#1c2b3e">OUT 2</text>
+<text x="875" y="609" font-size="16" text-anchor="start" fill="#1c2b3e">OUT 1</text>
+<circle cx="1080" cy="525" r="5" fill="#245f83"/>
+<circle cx="1080" cy="620" r="5" fill="#245f83"/>
+<path d="M1080 165 L1080 750" stroke="#245f83" stroke-width="3" fill="none"/>
+<text x="1110" y="715" font-size="21" text-anchor="end" fill="#1c2b3e">FAULT_N</text>
+<text x="1220" y="155" font-size="22" text-anchor="start" fill="#1c2b3e">阈值参考串（0.1%）</text>
+<text x="1380" y="195" font-size="21" text-anchor="middle" fill="#1c2b3e">3V3A</text>
+<path d="M1380 205 L1380 230" stroke="#245f83" stroke-width="3" fill="none"/>
+<rect x="1320" y="230" width="120" height="45" rx="9" fill="white" stroke="#bed0e4" stroke-width="2"/>
+<text x="1380" y="260" font-size="19" text-anchor="middle" fill="#1c2b3e">6.49 kΩ</text>
+<path d="M1380 275 L1380 315" stroke="#245f83" stroke-width="3" fill="none"/>
+<circle cx="1380" cy="315" r="5" fill="#245f83"/>
+<text x="1220" y="323" font-size="21" text-anchor="start" fill="#1c2b3e">VH = 2.229 V</text>
+<rect x="1320" y="345" width="120" height="45" rx="9" fill="white" stroke="#bed0e4" stroke-width="2"/>
+<path d="M1380 315 L1380 345" stroke="#245f83" stroke-width="3" fill="none"/>
+<text x="1380" y="375" font-size="19" text-anchor="middle" fill="#1c2b3e">7.32 kΩ</text>
+<path d="M1380 390 L1380 430" stroke="#245f83" stroke-width="3" fill="none"/>
+<circle cx="1380" cy="430" r="5" fill="#245f83"/>
+<text x="1220" y="438" font-size="21" text-anchor="start" fill="#1c2b3e">VL = 1.021 V</text>
+<rect x="1320" y="460" width="120" height="45" rx="9" fill="white" stroke="#bed0e4" stroke-width="2"/>
+<path d="M1380 430 L1380 460" stroke="#245f83" stroke-width="3" fill="none"/>
+<text x="1380" y="490" font-size="19" text-anchor="middle" fill="#1c2b3e">6.19 kΩ</text>
+<path d="M1380 505 L1380 535" stroke="#245f83" stroke-width="3" fill="none"/>
+<text x="1380" y="567" font-size="21" text-anchor="middle" fill="#1c2b3e">GND</text>
+<text x="1220" y="610" font-size="18" text-anchor="start" fill="#1c2b3e">VH / VL 各 1 nF 对地</text>
+<text x="1220" y="647" font-size="18" text-anchor="start" fill="#1c2b3e">U5/U6: 3脚=3V3A</text>
+<text x="1220" y="674" font-size="18" text-anchor="start" fill="#1c2b3e">12脚=GND；各100nF</text>
+<rect x="40" y="730" width="510" height="140" rx="9" fill="#eff7ef" stroke="#bed0e4" stroke-width="2"/>
+<text x="60" y="765" font-size="22" text-anchor="start" fill="#1c2b3e">U6 CH3：运行许可</text>
+<text x="60" y="798" font-size="19" text-anchor="start" fill="#1c2b3e">+9 = MCU_RUN（100k下拉）</text>
+<text x="60" y="829" font-size="19" text-anchor="start" fill="#1c2b3e">−8 = VL；OUT14 → FAULT_N</text>
+<path d="M550 800 L1080 800" stroke="#245f83" stroke-width="3" fill="none"/>
+<path d="M1080 750 L1080 890" stroke="#245f83" stroke-width="3" fill="none"/>
+<rect x="40" y="900" width="510" height="145" rx="9" fill="#eff7ef" stroke="#bed0e4" stroke-width="2"/>
+<text x="60" y="935" font-size="22" text-anchor="start" fill="#1c2b3e">U10 TLV803EA30DBZR</text>
+<text x="60" y="968" font-size="19" text-anchor="start" fill="#1c2b3e">监测3V3A；上电延时200ms</text>
+<text x="60" y="1000" font-size="18" text-anchor="start" fill="#1c2b3e">RESET2 → FAULT_N；1=GND，3=3V3A</text>
+<path d="M550 976 L1080 976" stroke="#245f83" stroke-width="3" fill="none"/>
+<circle cx="1080" cy="976" r="5" fill="#245f83"/>
+<path d="M1080 890 L1080 976" stroke="#245f83" stroke-width="3" fill="none"/>
+<rect x="650" y="1060" width="480" height="105" rx="9" fill="#edf4fc" stroke="#bed0e4" stroke-width="2"/>
+<text x="670" y="1095" font-size="21" text-anchor="start" fill="#1c2b3e">U7 SN74LVC74：D=1；/PRE=1</text>
+<text x="670" y="1125" font-size="19" text-anchor="start" fill="#1c2b3e">/CLR=FAULT_N；CLK=MCU_ARM</text>
+<text x="670" y="1154" font-size="19" text-anchor="start" fill="#1c2b3e">Q=RUN_OK；/Q=RUN_N</text>
+<path d="M1080 976 L1080 1060" stroke="#245f83" stroke-width="3" fill="none"/>
+<rect x="1190" y="770" width="370" height="280" rx="9" fill="#fff1ed" stroke="#bed0e4" stroke-width="2"/>
+<text x="1210" y="808" font-size="22" text-anchor="start" fill="#1c2b3e">门控（供电有效时）</text>
+<text x="1210" y="848" font-size="19" text-anchor="start" fill="#1c2b3e">HIN = PWM_H AND Q</text>
+<text x="1210" y="880" font-size="19" text-anchor="start" fill="#1c2b3e">LIN = PWM_L OR /Q</text>
+<text x="1210" y="920" font-size="19" text-anchor="start" fill="#1c2b3e">Q=0 → HIN=0 / LIN=1</text>
+<text x="1210" y="959" font-size="17" text-anchor="start" fill="#1c2b3e">FAULT_N 上拉 2.2k → +3V3</text>
+<text x="1210" y="994" font-size="19" text-anchor="start" fill="#1c2b3e">DRV_PG 仅作状态输入</text>
+<text x="1210" y="1025" font-size="19" text-anchor="start" fill="#1c2b3e">禁止直接并入 FAULT_N</text>
+<text x="50" y="1110" font-size="18" text-anchor="start" fill="#1c2b3e">名义零点≈1.627V；需逐相校准。</text>
+<text x="50" y="1144" font-size="18" text-anchor="start" fill="#1c2b3e">未验证2A硬上限及失电过渡。</text>
+</g></svg>
